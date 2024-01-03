@@ -1,0 +1,14 @@
+
+> @vidstack/react@1.9.8 build /home/nihey/devel/vidstack/player/packages/react
+> pnpm build:icons && rollup -c
+
+
+> @vidstack/react@1.9.8 build:icons /home/nihey/devel/vidstack/player/packages/react
+> node .scripts/build-icons.js
+
+[36m
+[1msrc/index.ts, src/providers/remotion/index.ts, src/components/layouts/default/index.ts, src/components/layouts/default/ui.ts, src/components/layouts/default/icons.tsx[22m → [1mdist/dev[22m...[39m
+[32mcreated [1mdist/dev[22m in [1m2.4s[22m[39m
+[36m
+[1msrc/index.ts, src/providers/remotion/index.ts, src/components/layouts/default/index.ts, src/components/layouts/default/ui.ts, src/components/layouts/default/icons.tsx, src/icons.ts[22m → [1mdist/prod[22m...[39m
+[32mcreated [1mdist/prod[22m in [1m2.6s[22m[39m

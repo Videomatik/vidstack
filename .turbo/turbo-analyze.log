@@ -1,0 +1,8 @@
+
+> @vidstack/react@1.9.8 analyze /home/nihey/devel/vidstack/player/packages/react
+> maverick analyze "src/**/*.tsx" --framework react --project tsconfig.build.json
+
+[maverick]  INFO  compiled program in 3s.
+
+[maverick]  INFO  analyzed 42 files in 3s.
+

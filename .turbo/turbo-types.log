@@ -1,0 +1,15 @@
+
+> @vidstack/react@1.9.8 types /home/nihey/devel/vidstack/player/packages/react
+> pnpm build:icons && pnpm build:types && rollup -c --config-types
+
+
+> @vidstack/react@1.9.8 build:icons /home/nihey/devel/vidstack/player/packages/react
+> node .scripts/build-icons.js
+
+
+> @vidstack/react@1.9.8 build:types /home/nihey/devel/vidstack/player/packages/react
+> tsc -p tsconfig.build.json
+
+[36m
+[1mtypes/react/src/index.d.ts, types/react/src/icons.d.ts, types/react/src/providers/remotion/index.d.ts, types/react/src/components/layouts/default/index.d.ts[22m → [1m.[22m...[39m
+[32mcreated [1m.[22m in [1m2.5s[22m[39m
